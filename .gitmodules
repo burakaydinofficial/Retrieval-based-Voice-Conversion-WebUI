@@ -1,3 +1,6 @@
 [submodule "assets/weights"]
 	path = assets/weights
 	url = https://burakkmobile.visualstudio.com/DefaultCollection/Voice%20Clonning/_git/Retrieval-based-Voice-Conversion-WebUI-Trained-Models
+[submodule "assets/Indices"]
+	path = assets/Indices
+	url = https://burakkmobile.visualstudio.com/DefaultCollection/Voice%20Clonning/_git/Retrieval-based-Voice-Conversion-WebUI-Trained-Models-Indices
